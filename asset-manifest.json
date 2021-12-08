@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dad-Jokes-Finder/static/css/main.0edd39fc.chunk.css",
+    "main.js": "/Dad-Jokes-Finder/static/js/main.e7b32578.chunk.js",
+    "main.js.map": "/Dad-Jokes-Finder/static/js/main.e7b32578.chunk.js.map",
+    "runtime-main.js": "/Dad-Jokes-Finder/static/js/runtime-main.5742b365.js",
+    "runtime-main.js.map": "/Dad-Jokes-Finder/static/js/runtime-main.5742b365.js.map",
+    "static/js/2.d3690652.chunk.js": "/Dad-Jokes-Finder/static/js/2.d3690652.chunk.js",
+    "static/js/2.d3690652.chunk.js.map": "/Dad-Jokes-Finder/static/js/2.d3690652.chunk.js.map",
+    "index.html": "/Dad-Jokes-Finder/index.html",
+    "static/css/main.0edd39fc.chunk.css.map": "/Dad-Jokes-Finder/static/css/main.0edd39fc.chunk.css.map",
+    "static/js/2.d3690652.chunk.js.LICENSE.txt": "/Dad-Jokes-Finder/static/js/2.d3690652.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5742b365.js",
+    "static/js/2.d3690652.chunk.js",
+    "static/css/main.0edd39fc.chunk.css",
+    "static/js/main.e7b32578.chunk.js"
+  ]
+}
