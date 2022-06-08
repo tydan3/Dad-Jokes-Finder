@@ -38,4 +38,9 @@ button {
   text-align: center;
   height: 36px;
   line-height: 27px;
+  transition: all 0.5s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
 }
