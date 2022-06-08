@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Puns-N-Jokes/static/css/main.0f169c7e.css",
+    "main.css": "/Puns-N-Jokes/static/css/main.427d0286.css",
     "main.js": "/Puns-N-Jokes/static/js/main.f70b4ed2.js",
     "index.html": "/Puns-N-Jokes/index.html",
-    "main.0f169c7e.css.map": "/Puns-N-Jokes/static/css/main.0f169c7e.css.map",
+    "main.427d0286.css.map": "/Puns-N-Jokes/static/css/main.427d0286.css.map",
     "main.f70b4ed2.js.map": "/Puns-N-Jokes/static/js/main.f70b4ed2.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f169c7e.css",
+    "static/css/main.427d0286.css",
     "static/js/main.f70b4ed2.js"
   ]
 }
